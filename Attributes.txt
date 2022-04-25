@@ -1,0 +1,13 @@
+Sources helped me to solve the implementation of the project :
+
+https://nfpdiscussions.udacity.com/ - The most helpful tutors ever.
+
+
+Github:
+https://github.com/ahmed-elesali/Udacity-explore_bike_share_data/commit/d30a4449b8e6414ad135f9e2f1e0f8edacc247de
+https://github.com/beingjainparas/Udacity-Explore_US_Bikeshare_Data/commit/8e4ad0342d4d0eb3ebb2e32c406e6a8b3324ef87
+
+https://www.python.org/doc/ -python documentation
+pandas documentation 
+
+Thanks to Juno, Udacity tutor , for this helpful course.
